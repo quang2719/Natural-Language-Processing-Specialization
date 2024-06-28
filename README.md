@@ -1,6 +1,7 @@
 # Natural Language Processing Specialization Notes
 
 This repository contains my personal notes, code examples, and learning materials from the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera. The course is instructed by Łukasz Kaiser.
+Check out the course here⬇️ [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 ## 📚 Course Overview
 
