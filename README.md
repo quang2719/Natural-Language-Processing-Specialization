@@ -1,11 +1,14 @@
 # Natural Language Processing Specialization
-
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-blue?style=for-the-badge&logo=DeepLearning.AI&logoColor=white)](https://deeplearning.ai/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)<br>
 This repository contains my personal notes, code examples, and learning materials from the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera. The course is instructed by Łukasz Kaiser.
-Check out the course here⬇️ [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
-
+## Certificate
+[![My certificate](https://github.com/quang2719/Natural-Language-Processing-Specialization/blob/main/Certificate/certificate_img.png?raw=true)](https://github.com/quang2719/Natural-Language-Processing-Specialization/blob/main/Certificate/certificate_img.png?raw=true)
 ## 📚 Course Overview
-
-This specialization delves into the fascinating world of Natural Language Processing (NLP), equipping learners with the skills to build cutting-edge NLP systems. The course covers a wide range of topics, from traditional techniques like classification and probabilistic models to the latest advancements in sequence models and attention mechanisms.
+Link to course
+<br>
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/natural-language-processing)
+<br>This specialization delves into the fascinating world of Natural Language Processing (NLP), equipping learners with the skills to build cutting-edge NLP systems. The course covers a wide range of topics, from traditional techniques like classification and probabilistic models to the latest advancements in sequence models and attention mechanisms.
 
 ## 🔍 Specialization Structure
 
