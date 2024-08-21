@@ -28,9 +28,6 @@ The specialization is divided into four distinct courses:
 *   **Code Examples:** Python code implementations of NLP techniques and algorithms.
 *   **Assignments (Optional):** Solutions to course assignments (if included).
 
-## ⚠️ Disclaimer
-
-This repository is intended for personal reference and learning purposes. The materials provided may contain errors or omissions, and I am not responsible for any consequences arising from their use.
 
 ## 📜 License
 
