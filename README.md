@@ -8,6 +8,9 @@ This repository contains my personal notes, code examples, and learning material
 Link to course
 <br>
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/natural-language-processing)
+<br>Link take notes:
+<br>
+[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://coordinated-title-01a.notion.site/NLP-Specialization-a4a980bea0814564be17ca59ad78150b?pvs=4)
 <br>This specialization delves into the fascinating world of Natural Language Processing (NLP), equipping learners with the skills to build cutting-edge NLP systems. The course covers a wide range of topics, from traditional techniques like classification and probabilistic models to the latest advancements in sequence models and attention mechanisms.
 
 ## 🔍 Specialization Structure
